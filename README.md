@@ -5,7 +5,7 @@
 
 I am confident in my abilities and am always looking for new challenges and opportunities to grow as a developer. I am excited to share my skills with the world and hope to make a positive impact on the web development community.
 
-![Profile views](https://komarev.com/ghpvc/?username=M-Taibur-Rahman&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=M-Taibur-Rahman&color=#3a86ff)
 
 
 Skills:/ REACT / JS / HTML / CSS
