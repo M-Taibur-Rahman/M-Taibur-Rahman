@@ -1,4 +1,4 @@
-![Web Developer](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fxndmxrfhliweofif9jty.png)
+![Web Developer](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bxEkHw1xewxOFjmGunb-Cw.png)
 <h1 align="center"> Hi there 👋, I am Taibur Rahman</h1>
 #### Web Developer
 
