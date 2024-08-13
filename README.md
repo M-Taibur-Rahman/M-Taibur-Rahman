@@ -1,4 +1,4 @@
-![Web Developer](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=996&t=st=1723529887~exp=1723530487~hmac=be94214011fc43c7e37b653c8a5f7167e4db1e17e30bfca46774a2fb23a22bb3)
+![Web Developer](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fxndmxrfhliweofif9jty.png)
 <h1 align="center"> Hi there 👋, I am Taibur Rahman</h1>
 #### Web Developer
 
