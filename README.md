@@ -1,4 +1,4 @@
-![Web Developer](https://adanitcenter.com/wp-content/uploads/2023/11/web-development.webp)
+![Web Developer](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2022/naukri-learning/what-is/What-is-Frontend-Development.jpg)
 <h1 align="center"> Hi there 👋, I am Taibur Rahman</h1>
 #### Web Developer
 
