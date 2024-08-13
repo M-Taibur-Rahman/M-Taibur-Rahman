@@ -15,10 +15,11 @@ Skills:/ REACT / JS / HTML / CSS
 - 👯 All of my projects are available at [https://github.com/M-Taibur-Rahman)
  
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-- 
+- <p>
 - <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/m-taibur-rahman-a2a500226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 - <a href="https://www.instagram.com/mshimul202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M-Taibur-Rahman)  
