@@ -5,7 +5,7 @@
 
 I am confident in my abilities and am always looking for new challenges and opportunities to grow as a developer. I am excited to share my skills with the world and hope to make a positive impact on the web development community.
 
-Skills: / HTML / CSS/
+Skills:/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on  Learning 
 - 🌱 I’m currently learning javascript 
