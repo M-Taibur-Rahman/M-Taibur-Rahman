@@ -1,4 +1,4 @@
-![Web Developer](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bxEkHw1xewxOFjmGunb-Cw.png)
+![Web Developer](https://cdn.vectorstock.com/i/1000x1000/47/25/front-end-development-minimal-infographic-banner-vector-32854725.webp)
 <h1 align="center"> Hi there 👋, I am Taibur Rahman</h1>
 #### Web Developer
 
