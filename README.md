@@ -14,7 +14,7 @@ Skills:/ REACT / JS / HTML / CSS
 - 🌱 I’m currently learning javascript 
 - 👯 All of my projects are available at [https://github.com/M-Taibur-Rahman)
  
-- 💬 Ask me about web Development 
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap** 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M-Taibur-Rahman)  
