@@ -36,6 +36,8 @@ Use To Code <hr>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=M-Taibur-Rahman)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2> Github Stats </h2>
 <p align="center">
   <a href="https://github.com/M-Taibur-Rahman">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Taibur-Rahman&theme=radical" alt="Taibur GitHub Contribution"/>
