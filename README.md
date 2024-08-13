@@ -1,5 +1,5 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5603AQELVx_7GZSfVA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1677961273860?e=1729123200&v=beta&t=91CV94EkSRd286D7zHNQ8gl_l7RvRMYYZyybOx0kfBo)
-<h1> Hi there 👋, I am Taibur Rahman</h1>
+<h1 style="center"> Hi there 👋, I am Taibur Rahman</h1>
 #### Web Developer
 
 
