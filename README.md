@@ -12,7 +12,8 @@ Skills:/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on  Learning 
 - 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on github 
+- 👯 All of my projects are available at [https://github.com/M-Taibur-Rahman)
+ 
 - 💬 Ask me about web Development 
 
 
