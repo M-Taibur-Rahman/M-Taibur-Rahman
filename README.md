@@ -32,10 +32,11 @@ Use To Code <hr>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M-Taibur-Rahman)  
-<p>
+
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=M-Taibur-Rahman)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 <h2> Github Stats </h2>
 <p align="center">
